@@ -1,2 +1,4 @@
 https://pkg.go.dev/
     - packages/libraries you can get 
+
+    https://go.dev/ref/spec
